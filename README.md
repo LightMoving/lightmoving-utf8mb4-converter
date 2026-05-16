@@ -8,7 +8,7 @@ Safely scan and convert WordPress database tables to UTF8MB4 for emoji and 4-byt
 
 ---
 
-## Overview
+## 🔍 Overview
 
 UTF8MB4 Database Converter helps modernize older WordPress databases that still use:
 
@@ -21,7 +21,7 @@ The plugin scans your WordPress database tables, identifies tables needing conve
 
 ---
 
-## Features
+## ⚡ Features
 
 - Database charset and collation scan
 - WordPress table scan using the active table prefix
@@ -36,7 +36,7 @@ The plugin scans your WordPress database tables, identifies tables needing conve
 
 ---
 
-## Designed For
+## 🖥 Designed For
 
 This utility is especially useful for:
 
@@ -50,7 +50,7 @@ This utility is especially useful for:
 
 ---
 
-## Safety First
+## 🔒 Safety First
 
 The plugin intentionally requires:
 
@@ -62,7 +62,7 @@ No database conversion occurs automatically on activation.
 
 ---
 
-## Installation
+## 📦 Installation
 
 1. Upload the plugin to `/wp-content/plugins/`
 2. Activate the plugin
