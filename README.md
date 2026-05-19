@@ -1,4 +1,4 @@
-![UTF8MB4 Database Converter](assets/banner-1544x500.png)
+![LightMoving UTF8MB4 Converter](assets/banner-1544x500.png)
 
 # UTF8MB4 Database Converter
 
@@ -12,7 +12,7 @@ Safely scan and convert WordPress database tables to UTF8MB4 for emoji and 4-byt
 
 ## 🔍 Overview
 
-UTF8MB4 Database Converter helps modernize older WordPress databases that still use:
+LightMoving UTF8MB4 Converter helps modernize older WordPress databases that still use:
 
 - latin1
 - utf8
@@ -71,4 +71,4 @@ No database conversion occurs automatically on activation.
 3. Go to:
 
 ```txt
-Tools → UTF8MB4 Converter
+Tools → LightMoving UTF8MB4 Converter
