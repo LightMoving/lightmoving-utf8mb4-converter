@@ -1,6 +1,6 @@
 ![LightMoving UTF8MB4 Converter](assets/banner-1544x500.png)
 
-# UTF8MB4 Database Converter
+# LightMoving UTF8MB4 Converter
 
 ![Version](https://img.shields.io/badge/version-1.0.5-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-blue)
