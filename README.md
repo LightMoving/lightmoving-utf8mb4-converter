@@ -2,8 +2,8 @@
 
 # LightMoving UTF8MB4 Converter
 
-![Version](https://img.shields.io/badge/version-1.0.5-blue)
-![WordPress](https://img.shields.io/badge/WordPress-7.0.1%2B-blue)
+![Version](https://img.shields.io/badge/version-1.0.22-blue)
+![WordPress](https://img.shields.io/badge/WordPress-7.0.2%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
 Safely scan and convert WordPress database tables to UTF8MB4 for emoji and 4-byte Unicode support.
@@ -71,6 +71,15 @@ No database conversion occurs automatically on activation.
 3. Go to:
 
 ## 📜 Changelog
+
+### 1.0.22
+- Update data file
+
+### 1.0.18
+- WordPress 7.0.2 compatibility
+
+### 1.0.17
+- Updated WordPress.org release
 
 ### 1.0.14
 - Updated for WordPress 7.0.1
