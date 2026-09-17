@@ -2,9 +2,9 @@
 Contributors: angelsrock
 Tags: database, utf8mb4, emoji, charset, unicode
 Requires at least: 5.8
-Tested up to: 7.1
+Tested up to: 7.1.1
 Requires PHP: 7.4
-Stable tag: 1.0.27
+Stable tag: 1.0.28
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -84,15 +84,8 @@ The plugin converts WordPress tables using the currently active WordPress table 
 Yes. Always create a complete database backup before running database conversion operations.
 
 == Changelog ==
-
-
-
-
-
-
-
-
-
+= 1.0.28 =
+* Update WordPress Version
 
 = 1.0.27 =
 * Version Improvements and Compatibility

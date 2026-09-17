@@ -2,7 +2,7 @@
 
 # LightMoving UTF8MB4 Converter
 
-![Version](https://img.shields.io/badge/version-1.0.27-blue)
+![Version](https://img.shields.io/badge/version-1.0.28-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-7.1-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
@@ -71,7 +71,9 @@ No database conversion occurs automatically on activation.
 3. Go to:
 
 ## 📜 Changelog
+### 1.0.28
 
+Release version 1.0.28
 ### 1.0.27
 
 Release version 1.0.27
