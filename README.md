@@ -73,13 +73,13 @@ No database conversion occurs automatically on activation.
 ## 📜 Changelog
 ### 1.0.29
 
-Release version 1.0.29
+- Release version 1.0.29
 ### 1.0.28
 
-Release version 1.0.28
+- Release version 1.0.28
 ### 1.0.27
 
-Release version 1.0.27
+- Release version 1.0.27
 ### 1.0.26
 - Change: Clean-up & Compatibility
 - Framework Responsiveness
