@@ -3,7 +3,7 @@
  * Plugin Name: LightMoving UTF8MB4 Converter
  * Plugin URI: https://github.com/LightMoving/lightmoving-utf8mb4-converter
  * Description: Safely scan and convert WordPress database tables to utf8mb4 for 4-byte character support, including emojis and expanded Unicode characters.
- * Version: 1.0.29
+ * Version: 1.0.30
  * Author: Debo Grim
  * Author URI: https://github.com/lightmoving
  * License: GPLv2 or later
@@ -15,7 +15,7 @@ if (!defined('ABSPATH')) {
 }
 
 class LightMoving_UTF8MB4_Converter {
-    const VERSION = '1.0.29';
+    const VERSION = '1.0.30';
     const TARGET_CHARSET = 'utf8mb4';
     const TARGET_COLLATION = 'utf8mb4_unicode_ci';
     const NONCE_ACTION = 'lightmoving_utf8mb4_converter_action';
